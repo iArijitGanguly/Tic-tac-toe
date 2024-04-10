@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+:root{
+    --yellow: #ffc107;
+}
+
+body {
+    background-color: black;
+}
